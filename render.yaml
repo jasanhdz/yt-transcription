@@ -1,0 +1,3 @@
+buildCommand:
+  - python==3.8
+  - poetry install  # O cualquier otro comando para instalar tus dependencias
